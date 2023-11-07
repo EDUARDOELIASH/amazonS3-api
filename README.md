@@ -1,5 +1,5 @@
 # amazonS3-api
-PI desarrollada en Node.js que facilita la gestión de archivos en Amazon S3, uno de los servicios de almacenamiento en la nube más ampliamente utilizados y confiables. Esta API ha sido diseñada para simplificar la tarea de descargar y subir archivos a Amazon S3, brindando a los usuarios un acceso rápido y eficiente a sus datos almacenados en la nube.
+API desarrollada en Node.js que facilita la gestión de archivos en Amazon S3, uno de los servicios de almacenamiento en la nube más ampliamente utilizados y confiables. Esta API ha sido diseñada para simplificar la tarea de descargar y subir archivos a Amazon S3, brindando a los usuarios un acceso rápido y eficiente a sus datos almacenados en la nube.
 
 Características destacadas del proyecto:
 
